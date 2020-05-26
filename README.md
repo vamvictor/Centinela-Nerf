@@ -77,18 +77,12 @@ Para profundizar más en los algoritmos leer el informe.
 # Simulación en el Unity
 
 ## Movimiento y disparo de la torreta
-<img src>
+El movimiento y disparo de la torreta se basará en los inputs que reciba de la aplicación (app Python) por la conexión del socket. 
 
 ## Modo centinela
+En el modo centinela el roboto activará un movimiento de barrido para detectar esas personas que no llevan mascarilla, en caso de detectar una persona sin mascarilla, la torreta le avisará mediante unos mensajes y acabará lanzando una mascarilla a la persona para que la utilize.
 <img src>
 
 ## Modo juego
-<img src>
-
-# Simulación del Hardware
-
-## Movimiento de los servos para el desplazamiento de la torreta
-<img src>
-
-## Movimiento de los servos al disparar
+EL modo juego, es un modo basado para jugar con la torreta. El robot es buscará las dianas mediante un movimiento de barrido y lanzará las mascarillas para acertar en la diana. Si se confirma el contacto de la mascarillas con la diana se creara una nueva diana que el robot deberá buscar y empezar de nuevo el proceso.
 <img src>

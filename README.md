@@ -8,7 +8,7 @@
 
 # Que es Centinela Nerf?
 
-Centinela Nerf es un robot-torreta que detecta a personas sin mascarilla y les dispara una mascarilla para evitar que sigan contagiando a otras personas.
+Centinela Nerf es un robot de ayuda contra la propagación del virus Covid-19, nos permite reconocer personas con mascarillas y sin mascarillas. Cuando detecte una persona con mascarilla este le avisará mediante un aviso de voz y le lanzará una mascarilla para su utilización. También nos permitirá jugar con los mas pequeño dinamizando la cuarentena mediante mini-juegos de puntería con la IA Centinela Nerf.
 
 # Requerimientos
 

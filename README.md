@@ -40,7 +40,9 @@ Centinela Nerf es un robot-torreta que detecta a personas sin mascarilla y les d
 
 # Documentación
 
+En este README enseña unos ejemplos de como funciona Centinela Nerf.
 
+Para profundizar más en los algoritmos leer el informe.g
 
 # Como utilizarlo
 
@@ -71,3 +73,25 @@ Centinela Nerf es un robot-torreta que detecta a personas sin mascarilla y les d
 4. Pas 2
 
 5. Pas 3
+
+# Simulación en el Unity
+
+## Movimiento y disparo de la torreta
+<img src>
+
+## Modo centinela
+<img src>
+
+## Modo juego
+<img src>
+
+# Simulación del Hardware
+
+## Movimiento y disparo de la torreta
+<img src>
+
+## Modo centinela
+<img src>
+
+## Modo juego
+<img src>

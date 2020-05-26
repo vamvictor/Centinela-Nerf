@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "civic-shell-276417",
+  "private_key_id": "a521898b1c01e1a7b7a895d1ce7db4522aad593e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDTtkwHldRYmirP\nXJrpgkK1P2rUl4pACwN5nvxFJ+K6eYZMAB8ZtpqNXAQurQ/ZgZFu6p2gyjYXHFN+\nkAfaPMx2QziSyVf671duCPkTEBGvnemwpQfKuLhQb2v0gVgdXwKjcwGF5aNsj4TP\ntsAGFS/dHNaW2G4+JIQDMjfoKmebw+wP8zvCbQDQuHcL3B5Tq9L34GP8WB4bfysc\nr6kEYwNjoDjO6LFoktd3TZubyog5JFfSl3FodU3HfOGUNAQjalJ5C9SVn+Oj7iUE\noOzW4KaWBuLt0m79N46KWVCfW8vhgoXrCSD1Vhx1wGqEXIDmpQ9YPgRgVzsXqG3Z\nOBVrDVubAgMBAAECggEAZXZx9JataHMmPi/a/DsV3khQ2ibwNmYw2apEq54EbqsM\nHkNWpFubsVCenoIJXQvYF8iwF52hk6zbJQZBBSnrMWhg5hRBqnznMVBykly6pSgw\nlZxZ4iFqD/5+RfVxNc5RdOUKn1GhY0da9rNWTvP7duQ5wZxjJTwZ2nBIU+dytTau\ncz6LYZc9T+6riQD7Q3ctayzKqBMY6a8NYVlAxqxxneMmojFva3uHvJqLVPtnemfv\nOHDpflWxUWSI5fluCxeQkzrBdnTp6OFuPrMGsi2r5D1xg2Bb/YZO2WzO+LHJJrWJ\nSbgpLUbODp2kyAYYMlzwTlf0fffgO1y76FMzJjdoBQKBgQD0e3Bm7yGVXDl46+8t\nvupL1eVCv4JQtVFX1YLoj9P33ilqE7BNiyHLLLn/ndb7eXmYybuo4co20pAHf/ti\nWWSG7ipql1e4wFDzknCL4bq0eM1n9Vvhv2Bv3cRJyRUD35bJTspDo/tAu6Vj0nPP\nUbnhQ4Ee6nMR9ljEXzA7Fz1I7QKBgQDdr6LxpR7BQn3t5TQ4HJhoolkbupf84vx8\nGXC8RDclWzJYjVbzOC/3n807IBFvPJjQUbALFyllJ0oRj3oV8auvIYfSBs3u5M81\nahOtUtQzxLjQ6JQYSeepoPdWNDw2DLLVPEe1dinXctKEyt4G2JrPHYjNf4nj9jC9\ng7y7hMHNpwKBgFRuYNYblYSIcgyxpkstGKsR9ngDvVR0GeB0ix4XtcNvROwuWn+d\nIhGRo7aEYx87x2Odn6JmP7iJJVaBu2YuqwnyLFHdbF0QhaRomVeloB39biqN0Kp4\ntixL8SLuP8SzrdZd0Hplojqr0yVTI82gUspZzrjHjO/SHLvMh9KQZwjNAoGALQ5t\nh7+PqKfjAF79Zgopz9pvUftyuKtJtc9V4m3a53TJnsXbTkO1PBb2l3XFFV6zkGOJ\n7Dcg6rY5j6ghoCQmSMn/2OgZItzOYITWyvtytbLd/VfIAcfDle5pVtP3COU706sU\nyATkLC3iK6svxSRxEndmPp4VYIfBEEOeMF6jJTECgYBLQcB607/RGzv/0TZXrJPT\neomqTxj9+EQfwnHiqaoraQdQLZEwh6vQBJ52Tug789/5IA/CdeQZMHuam0Fr3Se0\n3pWCF7pawFJaBH0lv6llVGijepdiip2hekvPgVqxt48LOSRk8kiLkCv9qhGFGu/+\n4ur9fNEJyQKIDwAvDdY9sw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "robotica@civic-shell-276417.iam.gserviceaccount.com",
+  "client_id": "100851446800147961435",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/robotica%40civic-shell-276417.iam.gserviceaccount.com"
+}
+ 

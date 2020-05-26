@@ -67,12 +67,15 @@ Para profundizar más en los algoritmos leer el informe.
 8. Si se aprieta el boton "CENTINELA" se pondra la torreta en modo automatico y se bloqueara el modo manual, en este modo buscarà personas sin mascarillas y cuando las detecte le disparà una.
 
 ## Simulación Hardware
+En la simulación hardware necesitaremos utilizar el programa proteus y Virtual Serial Port Emulator.
 
-3. Pas 1
+1. Abrir el puerto virtual con el programa "Virtual Serial Port Emulator" para conectar la aplicación de Python mediante el puerto virtual.
 
-4. Pas 2
+2. En la aplicación de Proteus asignamos el puerto al que queremos conectarnos.
 
-5. Pas 3
+3. Ejecutamos la aplicación de Python, hacemos click en el botón conexión y indicamos el puerto que hemos asignado en Proteus. 
+
+Con estos 3 pasos tenemos configurada la conexión para realizar la simulación del hardware.
 
 # Simulación en el Unity
 
@@ -81,8 +84,10 @@ El movimiento y disparo de la torreta se basará en los inputs que reciba de la 
 
 ## Modo centinela
 En el modo centinela el roboto activará un movimiento de barrido para detectar esas personas que no llevan mascarilla, en caso de detectar una persona sin mascarilla, la torreta le avisará mediante unos mensajes y acabará lanzando una mascarilla a la persona para que la utilize.
+
 <img src='./Imagenes/No-mascarilla.png'>
 
 ## Modo juego
 EL modo juego, es un modo basado para jugar con la torreta. El robot es buscará las dianas mediante un movimiento de barrido y lanzará las mascarillas para acertar en la diana. Si se confirma el contacto de la mascarillas con la diana se creara una nueva diana que el robot deberá buscar y empezar de nuevo el proceso.
+
 <img src='./Imagenes/Diana.png'>
